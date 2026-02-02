@@ -3,7 +3,7 @@ import os
 def Directoryscanner(DirectoryName):
     print("Contents of the directory are : ")
     for FolderName, SubFolderName, FileName in os.walk(DirectoryName):
-        print("Folder name: ",FolderName)
+        print("Folder name: ",FolderName,SubFolderName,FileName)
         for subf in SubFolderName:
             print("Sub Folder Name: ",subf)
 
