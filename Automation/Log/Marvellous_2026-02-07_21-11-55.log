@@ -1,0 +1,2519 @@
+____________________________________________________________
+----------------Marvellous Platform Surveillance system-----------
+Log Created at Sat Feb  7 21:11:55 2026
+____________________________________________________________
+
+-------------------System Report--------------------
+CPU Usage: 1.8 %
+____________________________________________________________
+Ram Usage: 59.1 %
+____________________________________________________________
+
+ Disk Usage Report 
+____________________________________________________________
+/ -> 4.1 % used
+/System/Volumes/VM -> 0.5 % used
+/System/Volumes/Preboot -> 3.6 % used
+/System/Volumes/Update -> 0.1 % used
+/System/Volumes/xarts -> 1.2 % used
+/System/Volumes/iSCPreboot -> 1.2 % used
+/System/Volumes/Hardware -> 0.3 % used
+/System/Volumes/Data -> 10.0 % used
+/System/Volumes/Update/mnt1 -> 4.1 % used
+/private/var/folders/6p/1ptb6jzd6hz7fybw8_rzs0q40000gn/T/AppTranslocation/8D0279E6-223A-438C-9E44-EBA62E80B46E -> 10.0 % used
+
+Network Usage Report
+sent : 1438.53 MB
+Recv : 3162.49 MB
+____________________________________________________________
+PID: 803
+Name: Google Chrome Helper (Renderer)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 12:32:04
+CPU %:  0.00
+Memory %:  1.91
+____________________________________________________________
+PID: 813
+Name: Google Chrome Helper (Renderer)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 12:32:08
+CPU %:  0.00
+Memory %:  0.84
+____________________________________________________________
+PID: 926
+Name: loginwindow
+UserName: root
+Status: sleeping
+Start Time: 2026-01-25 09:59:25
+CPU %:  0.00
+Memory %:  0.64
+____________________________________________________________
+PID: 956
+Name: distnoted
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.04
+____________________________________________________________
+PID: 957
+Name: cfprefsd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.04
+____________________________________________________________
+PID: 958
+Name: UserEventAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.12
+____________________________________________________________
+PID: 960
+Name: ControlCenter
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.10
+Memory %:  0.52
+____________________________________________________________
+PID: 962
+Name: universalaccessd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.09
+____________________________________________________________
+PID: 963
+Name: pboard
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.06
+____________________________________________________________
+PID: 965
+Name: lsd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.11
+____________________________________________________________
+PID: 970
+Name: lockoutagent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.04
+____________________________________________________________
+PID: 971
+Name: nsurlsessiond
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.12
+____________________________________________________________
+PID: 973
+Name: rapportd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.15
+____________________________________________________________
+PID: 974
+Name: usernoted
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.12
+____________________________________________________________
+PID: 975
+Name: routined
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.20
+____________________________________________________________
+PID: 977
+Name: WiFiAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.27
+____________________________________________________________
+PID: 981
+Name: assistantd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.28
+____________________________________________________________
+PID: 983
+Name: secd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.14
+____________________________________________________________
+PID: 987
+Name: corespotlightd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.27
+____________________________________________________________
+PID: 988
+Name: usernotificationsd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.08
+____________________________________________________________
+PID: 989
+Name: sociallayerd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.07
+____________________________________________________________
+PID: 990
+Name: suggestd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.21
+____________________________________________________________
+PID: 996
+Name: ContinuityCaptureAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.08
+____________________________________________________________
+PID: 997
+Name: containermanagerd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.07
+____________________________________________________________
+PID: 1003
+Name: WindowManager
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.19
+____________________________________________________________
+PID: 1004
+Name: identityservicesd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.21
+____________________________________________________________
+PID: 1005
+Name: accountsd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.43
+____________________________________________________________
+PID: 1008
+Name: trustd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.09
+____________________________________________________________
+PID: 1010
+Name: fileproviderd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:46
+CPU %:  0.00
+Memory %:  0.13
+____________________________________________________________
+PID: 1017
+Name: Google Chrome
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  3.48
+____________________________________________________________
+PID: 1018
+Name: voicebankingd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.06
+____________________________________________________________
+PID: 1031
+Name: sharedfilelistd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.08
+____________________________________________________________
+PID: 1032
+Name: coreauthd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.10
+____________________________________________________________
+PID: 1037
+Name: BiomeAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.11
+____________________________________________________________
+PID: 1038
+Name: sharingd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.21
+____________________________________________________________
+PID: 1044
+Name: homed
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.27
+____________________________________________________________
+PID: 1046
+Name: StatusKitAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.10
+____________________________________________________________
+PID: 1048
+Name: NotificationCenter
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.30
+____________________________________________________________
+PID: 1051
+Name: familycircled
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.09
+____________________________________________________________
+PID: 1053
+Name: akd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.28
+____________________________________________________________
+PID: 1056
+Name: ViewBridgeAuxiliary
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.08
+____________________________________________________________
+PID: 1061
+Name: imagent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.18
+____________________________________________________________
+PID: 1063
+Name: triald
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 13:21:09
+CPU %:  0.00
+Memory %:  0.09
+____________________________________________________________
+PID: 1068
+Name: UIKitSystem
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.19
+____________________________________________________________
+PID: 1073
+Name: mediaremoteagent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.02
+____________________________________________________________
+PID: 1074
+Name: useractivityd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.06
+____________________________________________________________
+PID: 1079
+Name: Terminal
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.65
+____________________________________________________________
+PID: 1081
+Name: Dock
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.38
+____________________________________________________________
+PID: 1082
+Name: SystemUIServer
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.23
+____________________________________________________________
+PID: 1083
+Name: avconferenced
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.18
+____________________________________________________________
+PID: 1084
+Name: Finder
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.76
+____________________________________________________________
+PID: 1085
+Name: fontd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.07
+____________________________________________________________
+PID: 1090
+Name: WallpaperAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.15
+____________________________________________________________
+PID: 1092
+Name: fontworker
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.05
+____________________________________________________________
+PID: 1093
+Name: AMPDeviceDiscoveryAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:47
+CPU %:  0.00
+Memory %:  0.03
+____________________________________________________________
+PID: 1100
+Name: searchpartyuseragent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:48
+CPU %:  0.00
+Memory %:  0.16
+____________________________________________________________
+PID: 1101
+Name: WallpaperVideoExtension
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-01-25 09:59:48
+CPU %:  0.00
+Memory %:  0.15
+____________________________________________________________
+PID: 1107
+Name: cloudd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 13:24:53
+CPU %:  0.00
+Memory %:  0.17
+____________________________________________________________
+PID: 1109
+Name: mdbulkimport
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:48
+CPU %:  0.00
+Memory %:  0.15
+____________________________________________________________
+PID: 1116
+Name: com.apple.CloudDocs.iCloudDriveFileProvider
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-01-25 09:59:48
+CPU %:  0.00
+Memory %:  0.06
+____________________________________________________________
+PID: 1132
+Name: com.apple.dock.extra
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-01-25 09:59:49
+CPU %:  0.00
+Memory %:  0.36
+____________________________________________________________
+PID: 1137
+Name: Spotlight
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:49
+CPU %:  0.00
+Memory %:  0.27
+____________________________________________________________
+PID: 1144
+Name: commerce
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:49
+CPU %:  0.00
+Memory %:  0.08
+____________________________________________________________
+PID: 1158
+Name: contactsd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 13:33:47
+CPU %:  0.00
+Memory %:  0.16
+____________________________________________________________
+PID: 1180
+Name: diagnostics_agent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:50
+CPU %:  0.00
+Memory %:  0.09
+____________________________________________________________
+PID: 1203
+Name: CursorUIViewService
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:50
+CPU %:  0.00
+Memory %:  0.14
+____________________________________________________________
+PID: 1229
+Name: chrome_crashpad_handler
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:51
+CPU %:  0.00
+Memory %:  0.02
+____________________________________________________________
+PID: 1234
+Name: Google Chrome Helper
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:52
+CPU %:  0.90
+Memory %:  1.13
+____________________________________________________________
+PID: 1235
+Name: Google Chrome Helper
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:52
+CPU %:  0.00
+Memory %:  0.74
+____________________________________________________________
+PID: 1238
+Name: Google Chrome Helper
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:52
+CPU %:  0.00
+Memory %:  0.24
+____________________________________________________________
+PID: 1259
+Name: heard
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:53
+CPU %:  0.00
+Memory %:  0.22
+____________________________________________________________
+PID: 1260
+Name: corespeechd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:53
+CPU %:  0.00
+Memory %:  0.14
+____________________________________________________________
+PID: 1266
+Name: imklaunchagent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:53
+CPU %:  0.00
+Memory %:  0.06
+____________________________________________________________
+PID: 1269
+Name: icdd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:53
+CPU %:  0.00
+Memory %:  0.03
+____________________________________________________________
+PID: 1272
+Name: AirPlayUIAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:53
+CPU %:  0.00
+Memory %:  0.09
+____________________________________________________________
+PID: 1273
+Name: TextInputMenuAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:53
+CPU %:  0.00
+Memory %:  0.27
+____________________________________________________________
+PID: 1275
+Name: ctkahp
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 09:59:53
+CPU %:  0.00
+Memory %:  0.03
+____________________________________________________________
+PID: 1483
+Name: knowledge-agent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 14:28:05
+CPU %:  0.00
+Memory %:  0.17
+____________________________________________________________
+PID: 1830
+Name: storeaccountd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 10:00:05
+CPU %:  0.00
+Memory %:  0.05
+____________________________________________________________
+PID: 1943
+Name: spotlightknowledged
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 10:00:47
+CPU %:  0.00
+Memory %:  0.08
+____________________________________________________________
+PID: 1961
+Name: peopled
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 10:00:49
+CPU %:  0.00
+Memory %:  0.12
+____________________________________________________________
+PID: 2021
+Name: tipsd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 10:01:05
+CPU %:  0.00
+Memory %:  0.13
+____________________________________________________________
+PID: 2058
+Name: PasswordBreachAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 10:04:48
+CPU %:  0.00
+Memory %:  0.21
+____________________________________________________________
+PID: 2434
+Name: IMDPersistenceAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:00:16
+CPU %:  0.00
+Memory %:  0.14
+____________________________________________________________
+PID: 2625
+Name: CommCenter
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:03:52
+CPU %:  0.00
+Memory %:  0.14
+____________________________________________________________
+PID: 2626
+Name: CoreLocationAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:03:53
+CPU %:  0.00
+Memory %:  0.25
+____________________________________________________________
+PID: 2630
+Name: Keychain Circle Notification
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:04:05
+CPU %:  0.00
+Memory %:  0.10
+____________________________________________________________
+PID: 2667
+Name: AppPredictionIntentsHelperService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 15:04:52
+CPU %:  0.00
+Memory %:  0.09
+____________________________________________________________
+PID: 2672
+Name: chronod
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:05:08
+CPU %:  0.00
+Memory %:  0.18
+____________________________________________________________
+PID: 2674
+Name: pkd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:05:08
+CPU %:  0.00
+Memory %:  0.07
+____________________________________________________________
+PID: 2675
+Name: replicatord
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:05:08
+CPU %:  0.00
+Memory %:  0.10
+____________________________________________________________
+PID: 2677
+Name: localizationswitcherd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:05:08
+CPU %:  0.00
+Memory %:  0.04
+____________________________________________________________
+PID: 2679
+Name: WorldClockWidget
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 15:05:08
+CPU %:  0.00
+Memory %:  0.22
+____________________________________________________________
+PID: 2681
+Name: secinitd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:05:08
+CPU %:  0.00
+Memory %:  0.06
+____________________________________________________________
+PID: 2682
+Name: StocksWidget
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 15:05:08
+CPU %:  0.00
+Memory %:  0.44
+____________________________________________________________
+PID: 2684
+Name: bird
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:05:08
+CPU %:  0.00
+Memory %:  0.16
+____________________________________________________________
+PID: 2685
+Name: com.apple.geod
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:05:08
+CPU %:  0.00
+Memory %:  0.09
+____________________________________________________________
+PID: 2704
+Name: CalendarWidgetExtension
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 15:05:09
+CPU %:  0.00
+Memory %:  0.11
+____________________________________________________________
+PID: 2705
+Name: ScreenTimeWidgetExtension
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 15:05:09
+CPU %:  0.00
+Memory %:  0.43
+____________________________________________________________
+PID: 2706
+Name: ManagedSettingsAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:05:09
+CPU %:  0.00
+Memory %:  0.03
+____________________________________________________________
+PID: 2707
+Name: CategoriesService
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:05:09
+CPU %:  0.00
+Memory %:  0.07
+____________________________________________________________
+PID: 2711
+Name: ContextService
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:05:09
+CPU %:  0.00
+Memory %:  0.08
+____________________________________________________________
+PID: 2718
+Name: CloudTelemetryService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 15:05:10
+CPU %:  0.00
+Memory %:  0.13
+____________________________________________________________
+PID: 2723
+Name: appstoreagent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:05:10
+CPU %:  0.00
+Memory %:  0.12
+____________________________________________________________
+PID: 2736
+Name: amsaccountsd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:05:10
+CPU %:  0.00
+Memory %:  0.09
+____________________________________________________________
+PID: 2742
+Name: BackgroundTaskManagementAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:05:10
+CPU %:  0.00
+Memory %:  0.09
+____________________________________________________________
+PID: 2744
+Name: SetStoreUpdateService
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:05:10
+CPU %:  0.00
+Memory %:  0.07
+____________________________________________________________
+PID: 2751
+Name: mediaanalysisd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:05:12
+CPU %:  0.00
+Memory %:  0.20
+____________________________________________________________
+PID: 2930
+Name: bluetoothuserd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:13:02
+CPU %:  0.00
+Memory %:  0.09
+____________________________________________________________
+PID: 2935
+Name: coreautha
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:13:03
+CPU %:  0.00
+Memory %:  0.13
+____________________________________________________________
+PID: 2936
+Name: donotdisturbd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:13:03
+CPU %:  0.00
+Memory %:  0.13
+____________________________________________________________
+PID: 2937
+Name: findmylocateagent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:13:03
+CPU %:  0.00
+Memory %:  0.10
+____________________________________________________________
+PID: 2938
+Name: TextInputSwitcher
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:13:03
+CPU %:  0.00
+Memory %:  0.13
+____________________________________________________________
+PID: 2947
+Name: VTDecoderXPCService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 15:13:07
+CPU %:  0.00
+Memory %:  0.07
+____________________________________________________________
+PID: 3028
+Name: IntelligencePlatformComputeService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 15:18:18
+CPU %:  0.00
+Memory %:  0.11
+____________________________________________________________
+PID: 3076
+Name: AppSSOAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:20:59
+CPU %:  0.00
+Memory %:  0.26
+____________________________________________________________
+PID: 3238
+Name: appleaccountd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:33:14
+CPU %:  0.00
+Memory %:  0.10
+____________________________________________________________
+PID: 3239
+Name: followupd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:33:14
+CPU %:  0.00
+Memory %:  0.05
+____________________________________________________________
+PID: 3240
+Name: DockHelper
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 15:33:20
+CPU %:  0.00
+Memory %:  0.24
+____________________________________________________________
+PID: 3243
+Name: CoreServicesUIAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:33:22
+CPU %:  0.00
+Memory %:  0.26
+____________________________________________________________
+PID: 3332
+Name: cdpd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:51:40
+CPU %:  0.00
+Memory %:  0.07
+____________________________________________________________
+PID: 3333
+Name: AuthenticationServicesAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:51:40
+CPU %:  0.00
+Memory %:  0.40
+____________________________________________________________
+PID: 3335
+Name: keychainsharingmessagingd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 15:51:41
+CPU %:  0.00
+Memory %:  0.04
+____________________________________________________________
+PID: 3340
+Name: UsageTrackingAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:04:14
+CPU %:  0.00
+Memory %:  0.12
+____________________________________________________________
+PID: 3342
+Name: mapssyncd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:04:14
+CPU %:  0.00
+Memory %:  0.08
+____________________________________________________________
+PID: 3384
+Name: maild
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:04:29
+CPU %:  0.00
+Memory %:  0.02
+____________________________________________________________
+PID: 3385
+Name: ndoagent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:04:30
+CPU %:  0.00
+Memory %:  0.04
+____________________________________________________________
+PID: 3388
+Name: businessservicesd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:04:32
+CPU %:  0.00
+Memory %:  0.04
+____________________________________________________________
+PID: 3389
+Name: MessagesBlastDoorService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 16:04:32
+CPU %:  0.00
+Memory %:  0.03
+____________________________________________________________
+PID: 3390
+Name: feedbackd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:04:33
+CPU %:  0.00
+Memory %:  0.05
+____________________________________________________________
+PID: 3393
+Name: replayd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:04:43
+CPU %:  0.00
+Memory %:  0.12
+____________________________________________________________
+PID: 3402
+Name: keyboardservicesd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:05:27
+CPU %:  0.00
+Memory %:  0.07
+____________________________________________________________
+PID: 3450
+Name: extensionkitservice
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 16:08:16
+CPU %:  0.00
+Memory %:  0.07
+____________________________________________________________
+PID: 3451
+Name: transparencyd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:08:18
+CPU %:  0.00
+Memory %:  0.17
+____________________________________________________________
+PID: 3452
+Name: TrustedPeersHelper
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:08:18
+CPU %:  0.00
+Memory %:  0.08
+____________________________________________________________
+PID: 3453
+Name: ProtectedCloudKeySyncing
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:08:18
+CPU %:  0.00
+Memory %:  0.05
+____________________________________________________________
+PID: 3456
+Name: ctkd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:08:18
+CPU %:  0.00
+Memory %:  0.06
+____________________________________________________________
+PID: 3458
+Name: AssetCacheLocatorService
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:08:25
+CPU %:  0.00
+Memory %:  0.06
+____________________________________________________________
+PID: 3468
+Name: spotlightknowledged
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:09:08
+CPU %:  0.00
+Memory %:  0.08
+____________________________________________________________
+PID: 3469
+Name: deleted
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:09:08
+CPU %:  0.00
+Memory %:  0.08
+____________________________________________________________
+PID: 3506
+Name: contentlinkingd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:15:31
+CPU %:  0.00
+Memory %:  0.06
+____________________________________________________________
+PID: 3509
+Name: swcd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:15:52
+CPU %:  0.00
+Memory %:  0.07
+____________________________________________________________
+PID: 3544
+Name: mlhostd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:18:10
+CPU %:  0.00
+Memory %:  0.12
+____________________________________________________________
+PID: 3561
+Name: inputanalyticsd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:20:17
+CPU %:  0.00
+Memory %:  0.06
+____________________________________________________________
+PID: 3567
+Name: extensionkitservice
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 16:35:25
+CPU %:  0.00
+Memory %:  0.05
+____________________________________________________________
+PID: 3571
+Name: iCloudNotificationAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:35:25
+CPU %:  0.00
+Memory %:  0.09
+____________________________________________________________
+PID: 3596
+Name: linkd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 16:59:46
+CPU %:  0.00
+Memory %:  0.13
+____________________________________________________________
+PID: 3634
+Name: swtransparencyd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 17:16:56
+CPU %:  0.00
+Memory %:  0.08
+____________________________________________________________
+PID: 3635
+Name: CloudTelemetryService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 17:16:56
+CPU %:  0.00
+Memory %:  0.11
+____________________________________________________________
+PID: 3642
+Name: ReportCrash
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 17:17:09
+CPU %:  0.00
+Memory %:  0.01
+____________________________________________________________
+PID: 3676
+Name: VTDecoderXPCService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 17:24:38
+CPU %:  0.00
+Memory %:  0.05
+____________________________________________________________
+PID: 3679
+Name: MTLCompilerService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 17:24:45
+CPU %:  0.00
+Memory %:  0.21
+____________________________________________________________
+PID: 3699
+Name: pbs
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 17:27:07
+CPU %:  0.00
+Memory %:  0.04
+____________________________________________________________
+PID: 3812
+Name: geoanalyticsd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 17:39:32
+CPU %:  0.00
+Memory %:  0.10
+____________________________________________________________
+PID: 3860
+Name: OSDUIHelper
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 17:44:34
+CPU %:  0.00
+Memory %:  0.14
+____________________________________________________________
+PID: 3871
+Name: csnameddatad
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 17:45:25
+CPU %:  0.00
+Memory %:  0.02
+____________________________________________________________
+PID: 3874
+Name: dmd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 17:45:28
+CPU %:  0.00
+Memory %:  0.08
+____________________________________________________________
+PID: 3881
+Name: com.apple.accessibility.mediaaccessibilityd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 17:45:43
+CPU %:  0.00
+Memory %:  0.02
+____________________________________________________________
+PID: 3882
+Name: ScopedBookmarkAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 17:45:43
+CPU %:  0.00
+Memory %:  0.09
+____________________________________________________________
+PID: 3883
+Name: PlugInLibraryService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 17:45:44
+CPU %:  0.00
+Memory %:  0.02
+____________________________________________________________
+PID: 3884
+Name: AudioComponentRegistrar
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 17:45:44
+CPU %:  0.00
+Memory %:  0.08
+____________________________________________________________
+PID: 3888
+Name: axassetsd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 17:46:08
+CPU %:  0.00
+Memory %:  0.14
+____________________________________________________________
+PID: 3891
+Name: com.apple.audio.ComponentTagHelper
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 17:46:08
+CPU %:  0.00
+Memory %:  0.01
+____________________________________________________________
+PID: 3909
+Name: com.apple.SiriTTSService.TrialProxy
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 17:46:39
+CPU %:  0.00
+Memory %:  0.05
+____________________________________________________________
+PID: 3928
+Name: MTLCompilerService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 17:49:08
+CPU %:  0.00
+Memory %:  0.15
+____________________________________________________________
+PID: 3972
+Name: PlugInLibraryService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 17:50:37
+CPU %:  0.00
+Memory %:  0.01
+____________________________________________________________
+PID: 4097
+Name: DiskUnmountWatcher
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 18:02:24
+CPU %:  0.00
+Memory %:  0.02
+____________________________________________________________
+PID: 4098
+Name: PlugInLibraryService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 18:02:24
+CPU %:  0.00
+Memory %:  0.02
+____________________________________________________________
+PID: 4101
+Name: ThemeWidgetControlViewService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 18:02:28
+CPU %:  0.00
+Memory %:  0.20
+____________________________________________________________
+PID: 4158
+Name: siriactionsd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 18:07:49
+CPU %:  0.00
+Memory %:  0.23
+____________________________________________________________
+PID: 4160
+Name: ContainerMetadataExtractor
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 18:07:49
+CPU %:  0.00
+Memory %:  0.11
+____________________________________________________________
+PID: 4230
+Name: Google Chrome Helper
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 11:57:38
+CPU %:  0.00
+Memory %:  0.23
+____________________________________________________________
+PID: 4231
+Name: Google Chrome Helper (Plugin)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 11:57:38
+CPU %:  0.00
+Memory %:  0.55
+____________________________________________________________
+PID: 4457
+Name: XProtect
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 18:46:41
+CPU %:  0.00
+Memory %:  0.03
+____________________________________________________________
+PID: 4459
+Name: XProtectPluginService
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 18:46:41
+CPU %:  0.00
+Memory %:  0.05
+____________________________________________________________
+PID: 4479
+Name: promotedcontentd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 19:33:32
+CPU %:  0.00
+Memory %:  0.08
+____________________________________________________________
+PID: 4512
+Name: SoftwareUpdateNotificationManager
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 20:07:19
+CPU %:  0.00
+Memory %:  0.27
+____________________________________________________________
+PID: 4513
+Name: amsengagementd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 20:07:20
+CPU %:  0.00
+Memory %:  0.14
+____________________________________________________________
+PID: 4514
+Name: mobiletimerd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 20:07:20
+CPU %:  0.00
+Memory %:  0.07
+____________________________________________________________
+PID: 4516
+Name: cloudphotod
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 20:24:34
+CPU %:  0.00
+Memory %:  0.08
+____________________________________________________________
+PID: 4517
+Name: nsattributedstringagent
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 20:24:34
+CPU %:  0.00
+Memory %:  0.39
+____________________________________________________________
+PID: 4536
+Name: photolibraryd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 20:24:42
+CPU %:  0.00
+Memory %:  0.11
+____________________________________________________________
+PID: 4537
+Name: photoanalysisd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 20:24:42
+CPU %:  0.00
+Memory %:  0.06
+____________________________________________________________
+PID: 4565
+Name: generativeexperiencesd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:05:25
+CPU %:  0.00
+Memory %:  0.12
+____________________________________________________________
+PID: 4566
+Name: com.apple.quicklook.ThumbnailsAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:05:25
+CPU %:  0.00
+Memory %:  0.18
+____________________________________________________________
+PID: 4573
+Name: geodMachServiceBridge
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:05:26
+CPU %:  0.00
+Memory %:  0.02
+____________________________________________________________
+PID: 4584
+Name: ModelCatalogAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:20:44
+CPU %:  0.00
+Memory %:  0.05
+____________________________________________________________
+PID: 4598
+Name: assistant_service
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:36:14
+CPU %:  0.00
+Memory %:  0.23
+____________________________________________________________
+PID: 4604
+Name: itunescloudd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:36:15
+CPU %:  0.00
+Memory %:  0.11
+____________________________________________________________
+PID: 4626
+Name: installerauthagent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:53:45
+CPU %:  0.00
+Memory %:  0.01
+____________________________________________________________
+PID: 4641
+Name: Google Chrome Helper (Renderer)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:53:54
+CPU %:  0.00
+Memory %:  1.52
+____________________________________________________________
+PID: 4656
+Name: PlugInLibraryService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 22:54:26
+CPU %:  0.00
+Memory %:  0.01
+____________________________________________________________
+PID: 4657
+Name: Electron
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:54:26
+CPU %:  0.10
+Memory %:  1.38
+____________________________________________________________
+PID: 4658
+Name: PlugInLibraryService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 22:54:26
+CPU %:  0.00
+Memory %:  0.01
+____________________________________________________________
+PID: 4662
+Name: PlugInLibraryService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 22:54:26
+CPU %:  0.00
+Memory %:  0.01
+____________________________________________________________
+PID: 4663
+Name: storekitagent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:54:26
+CPU %:  0.00
+Memory %:  0.09
+____________________________________________________________
+PID: 4665
+Name: chrome_crashpad_handler
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:54:26
+CPU %:  0.00
+Memory %:  0.02
+____________________________________________________________
+PID: 4666
+Name: Code Helper (GPU)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:54:26
+CPU %:  7.30
+Memory %:  0.80
+____________________________________________________________
+PID: 4667
+Name: Code Helper
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:54:26
+CPU %:  0.00
+Memory %:  0.26
+____________________________________________________________
+PID: 4668
+Name: iconservicesagent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:54:26
+CPU %:  0.00
+Memory %:  0.05
+____________________________________________________________
+PID: 4669
+Name: MTLAssetUpgraderD
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:54:26
+CPU %:  0.00
+Memory %:  0.03
+____________________________________________________________
+PID: 4670
+Name: MENotificationAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:54:26
+CPU %:  0.00
+Memory %:  0.03
+____________________________________________________________
+PID: 4675
+Name: Code Helper (Renderer)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:54:27
+CPU %:  0.00
+Memory %:  1.87
+____________________________________________________________
+PID: 4689
+Name: Code Helper
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:54:27
+CPU %:  0.00
+Memory %:  0.63
+____________________________________________________________
+PID: 4690
+Name: Code Helper
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:54:27
+CPU %:  0.00
+Memory %:  0.39
+____________________________________________________________
+PID: 4692
+Name: Code Helper (Plugin)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:54:27
+CPU %:  0.00
+Memory %:  2.55
+____________________________________________________________
+PID: 4694
+Name: Code Helper
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:54:27
+CPU %:  0.40
+Memory %:  0.56
+____________________________________________________________
+PID: 4705
+Name: PlugInLibraryService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 22:54:27
+CPU %:  0.00
+Memory %:  0.01
+____________________________________________________________
+PID: 4711
+Name: zsh
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 22:54:28
+CPU %:  0.00
+Memory %:  0.01
+____________________________________________________________
+PID: 4712
+Name: zsh
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 22:54:28
+CPU %:  0.00
+Memory %:  0.01
+____________________________________________________________
+PID: 4881
+Name: pet
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:54:28
+CPU %:  0.00
+Memory %:  0.02
+____________________________________________________________
+PID: 4887
+Name: PlugInLibraryService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 22:54:28
+CPU %:  0.00
+Memory %:  0.01
+____________________________________________________________
+PID: 4904
+Name: zsh
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 22:54:29
+CPU %:  0.00
+Memory %:  0.01
+____________________________________________________________
+PID: 4986
+Name: Code Helper (Plugin)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:54:29
+CPU %:  0.00
+Memory %:  2.78
+____________________________________________________________
+PID: 5032
+Name: Google Chrome Helper (Renderer)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:54:39
+CPU %:  0.00
+Memory %:  0.75
+____________________________________________________________
+PID: 5038
+Name: seserviced
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 22:54:56
+CPU %:  0.00
+Memory %:  0.06
+____________________________________________________________
+PID: 5066
+Name: zsh
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 22:55:44
+CPU %:  0.00
+Memory %:  0.01
+____________________________________________________________
+PID: 5310
+Name: ThemeWidgetControlViewService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 22:55:52
+CPU %:  0.00
+Memory %:  0.10
+____________________________________________________________
+PID: 6200
+Name: zsh
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 23:08:17
+CPU %:  0.00
+Memory %:  0.01
+____________________________________________________________
+PID: 7252
+Name: zsh
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 23:18:01
+CPU %:  0.00
+Memory %:  0.01
+____________________________________________________________
+PID: 9418
+Name: Google Chrome Helper (Renderer)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 23:33:44
+CPU %:  0.00
+Memory %:  1.45
+____________________________________________________________
+PID: 9436
+Name: parsec-fbf
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 23:34:45
+CPU %:  0.00
+Memory %:  0.05
+____________________________________________________________
+PID: 9588
+Name: amsondevicestoraged
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 05:27:29
+CPU %:  0.00
+Memory %:  0.11
+____________________________________________________________
+PID: 9736
+Name: EscrowSecurityAlert
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 12:29:49
+CPU %:  0.00
+Memory %:  0.04
+____________________________________________________________
+PID: 9737
+Name: com.apple.sbd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 12:29:49
+CPU %:  0.00
+Memory %:  0.05
+____________________________________________________________
+PID: 9746
+Name: betaenrollmentagent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 12:30:01
+CPU %:  0.00
+Memory %:  0.04
+____________________________________________________________
+PID: 9771
+Name: adprivacyd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 12:51:28
+CPU %:  0.00
+Memory %:  0.10
+____________________________________________________________
+PID: 9807
+Name: SAExtensionOrchestrator
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-07 13:34:34
+CPU %:  0.00
+Memory %:  0.09
+____________________________________________________________
+PID: 9808
+Name: extensionkitservice
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-07 13:34:34
+CPU %:  0.00
+Memory %:  0.04
+____________________________________________________________
+PID: 9809
+Name: BiomeSELFIngestor
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-07 13:34:34
+CPU %:  0.00
+Memory %:  0.06
+____________________________________________________________
+PID: 9810
+Name: GMSSELFIngestor
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-07 13:34:34
+CPU %:  0.00
+Memory %:  0.07
+____________________________________________________________
+PID: 9811
+Name: IFTranscriptSELFIngestor
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-07 13:34:34
+CPU %:  0.00
+Memory %:  0.06
+____________________________________________________________
+PID: 9812
+Name: IFTelemetrySELFIngestor
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-07 13:34:34
+CPU %:  0.00
+Memory %:  0.06
+____________________________________________________________
+PID: 9826
+Name: devicecheckd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 14:05:58
+CPU %:  0.00
+Memory %:  0.05
+____________________________________________________________
+PID: 9913
+Name: XprotectService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-07 17:29:13
+CPU %:  0.00
+Memory %:  0.04
+____________________________________________________________
+PID: 9914
+Name: Code Helper (Renderer)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 17:29:13
+CPU %:  0.10
+Memory %:  1.60
+____________________________________________________________
+PID: 9915
+Name: Code Helper (Plugin)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 17:29:13
+CPU %:  0.00
+Memory %:  1.24
+____________________________________________________________
+PID: 9916
+Name: Code Helper
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 17:29:13
+CPU %:  0.00
+Memory %:  0.39
+____________________________________________________________
+PID: 9919
+Name: Code Helper (Plugin)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 17:29:14
+CPU %:  0.00
+Memory %:  0.58
+____________________________________________________________
+PID: 9920
+Name: Code Helper (Plugin)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 17:29:14
+CPU %:  0.00
+Memory %:  0.64
+____________________________________________________________
+PID: 9923
+Name: PowerChime
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 15:39:48
+CPU %:  0.00
+Memory %:  0.12
+____________________________________________________________
+PID: 9931
+Name: Code Helper (Plugin)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 17:29:14
+CPU %:  0.00
+Memory %:  0.61
+____________________________________________________________
+PID: 9943
+Name: Code Helper (Plugin)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 17:29:14
+CPU %:  0.00
+Memory %:  0.27
+____________________________________________________________
+PID: 9945
+Name: Code Helper (Plugin)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 17:29:15
+CPU %:  0.00
+Memory %:  0.30
+____________________________________________________________
+PID: 9963
+Name: Code Helper (Renderer)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 17:29:43
+CPU %:  6.50
+Memory %:  2.84
+____________________________________________________________
+PID: 9964
+Name: Code Helper
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 17:29:43
+CPU %:  0.20
+Memory %:  0.44
+____________________________________________________________
+PID: 9965
+Name: Code Helper (Plugin)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 17:29:43
+CPU %:  0.20
+Memory %:  2.28
+____________________________________________________________
+PID: 9981
+Name: pet
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 17:29:44
+CPU %:  0.00
+Memory %:  0.04
+____________________________________________________________
+PID: 10043
+Name: zsh
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-07 17:29:45
+CPU %:  0.00
+Memory %:  0.01
+____________________________________________________________
+PID: 10122
+Name: Code Helper (Plugin)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 17:29:45
+CPU %:  0.00
+Memory %:  6.02
+____________________________________________________________
+PID: 10163
+Name: zsh
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-07 17:29:47
+CPU %:  0.00
+Memory %:  0.02
+____________________________________________________________
+PID: 10291
+Name: com.apple.Notes.SpotlightIndexExtension
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-01-25 16:02:55
+CPU %:  0.00
+Memory %:  0.06
+____________________________________________________________
+PID: 10321
+Name: Google Chrome Helper (Renderer)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 17:35:03
+CPU %:  0.00
+Memory %:  2.18
+____________________________________________________________
+PID: 11366
+Name: zsh
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 17:43:38
+CPU %:  0.00
+Memory %:  0.02
+____________________________________________________________
+PID: 11458
+Name: Google Chrome Helper (Renderer)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 17:48:22
+CPU %:  0.00
+Memory %:  1.60
+____________________________________________________________
+PID: 11469
+Name: Google Chrome Helper (Renderer)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 17:49:24
+CPU %:  0.50
+Memory %:  0.62
+____________________________________________________________
+PID: 11499
+Name: Google Chrome Helper (Renderer)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 17:50:24
+CPU %:  0.00
+Memory %:  0.45
+____________________________________________________________
+PID: 11551
+Name: extensionkitservice
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-07 17:52:00
+CPU %:  0.00
+Memory %:  0.04
+____________________________________________________________
+PID: 11552
+Name: TextThumbnailExtension
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-07 17:52:00
+CPU %:  0.00
+Memory %:  0.21
+____________________________________________________________
+PID: 11805
+Name: Google Chrome Helper (Renderer)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 18:01:58
+CPU %:  0.00
+Memory %:  0.95
+____________________________________________________________
+PID: 11813
+Name: ControlCenterHelper
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-01-25 17:59:24
+CPU %:  0.00
+Memory %:  0.19
+____________________________________________________________
+PID: 11814
+Name: com.apple.SafariPlatformSupport.Helper
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-01-25 17:59:25
+CPU %:  0.00
+Memory %:  0.14
+____________________________________________________________
+PID: 12314
+Name: zsh
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-07 18:15:34
+CPU %:  0.00
+Memory %:  0.02
+____________________________________________________________
+PID: 14638
+Name: WeatherWidget
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-07 18:49:51
+CPU %:  0.00
+Memory %:  0.44
+____________________________________________________________
+PID: 18007
+Name: biomesyncd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 20:28:35
+CPU %:  0.00
+Memory %:  0.07
+____________________________________________________________
+PID: 18362
+Name: LinkedNotesUIService
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 20:37:10
+CPU %:  0.00
+Memory %:  0.23
+____________________________________________________________
+PID: 18971
+Name: mdworker_shared
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 21:10:03
+CPU %:  0.50
+Memory %:  0.16
+____________________________________________________________
+PID: 19048
+Name: Python
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-07 21:10:55
+CPU %:  19.50
+Memory %:  0.12
+____________________________________________________________
+PID: 21187
+Name: IMAutomaticHistoryDeletionAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-25 23:34:19
+CPU %:  0.00
+Memory %:  0.08
+____________________________________________________________
+PID: 33524
+Name: Messages
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-26 18:44:05
+CPU %:  0.00
+Memory %:  0.43
+____________________________________________________________
+PID: 34240
+Name: UserNotificationCenter
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-26 19:01:06
+CPU %:  0.00
+Memory %:  0.23
+____________________________________________________________
+PID: 44875
+Name: Python
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-27 11:17:50
+CPU %:  1.20
+Memory %:  0.29
+____________________________________________________________
+PID: 44877
+Name: Python
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-27 11:17:51
+CPU %:  0.50
+Memory %:  0.06
+____________________________________________________________
+PID: 50381
+Name: storeuid
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-29 11:04:56
+CPU %:  0.00
+Memory %:  0.17
+____________________________________________________________
+PID: 50383
+Name: passd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-29 11:04:59
+CPU %:  0.00
+Memory %:  0.13
+____________________________________________________________
+PID: 50592
+Name: mbuseragent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-29 11:58:23
+CPU %:  0.00
+Memory %:  0.02
+____________________________________________________________
+PID: 52251
+Name: USBAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-29 18:46:44
+CPU %:  0.00
+Memory %:  0.01
+____________________________________________________________
+PID: 55299
+Name: mdwrite
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-30 19:00:34
+CPU %:  0.00
+Memory %:  0.01
+____________________________________________________________
+PID: 68319
+Name: Notes
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-31 19:10:03
+CPU %:  0.00
+Memory %:  0.39
+____________________________________________________________
+PID: 68324
+Name: AppleSpell
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-31 19:10:07
+CPU %:  0.00
+Memory %:  0.28
+____________________________________________________________
+PID: 69816
+Name: Siri
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-31 19:48:51
+CPU %:  0.00
+Memory %:  0.15
+____________________________________________________________
+PID: 69818
+Name: callservicesd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-31 19:48:51
+CPU %:  0.00
+Memory %:  0.16
+____________________________________________________________
+PID: 69875
+Name: SiriNCService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-01-31 19:50:03
+CPU %:  0.00
+Memory %:  0.22
+____________________________________________________________
+PID: 71146
+Name: duetexpertd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-31 20:40:00
+CPU %:  0.00
+Memory %:  0.25
+____________________________________________________________
+PID: 71986
+Name: ContextStoreAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-31 21:54:32
+CPU %:  0.00
+Memory %:  0.15
+____________________________________________________________
+PID: 71988
+Name: ScreenTimeAgent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-31 21:54:33
+CPU %:  0.00
+Memory %:  0.12
+____________________________________________________________
+PID: 72019
+Name: siriknowledged
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-31 21:54:43
+CPU %:  0.00
+Memory %:  0.22
+____________________________________________________________
+PID: 72155
+Name: milod
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-31 22:41:06
+CPU %:  0.00
+Memory %:  0.11
+____________________________________________________________
+PID: 73378
+Name: Google Chrome Helper (Renderer)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-31 22:54:30
+CPU %:  0.00
+Memory %:  0.79
+____________________________________________________________
+PID: 73381
+Name: PasswordManagerBrowserExtensionHelper
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-01-31 22:54:31
+CPU %:  0.00
+Memory %:  0.37
+____________________________________________________________
+PID: 75500
+Name: Google Chrome Helper (Renderer)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-01 12:17:36
+CPU %:  0.00
+Memory %:  1.21
+____________________________________________________________
+PID: 75553
+Name: Google Chrome Helper (Renderer)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-01 12:20:37
+CPU %:  0.00
+Memory %:  0.76
+____________________________________________________________
+PID: 88661
+Name: Google Chrome Helper (Renderer)
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-02 18:19:30
+CPU %:  0.00
+Memory %:  3.32
+____________________________________________________________
+PID: 92951
+Name: networkserviceproxy
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-02 21:32:31
+CPU %:  0.00
+Memory %:  0.14
+____________________________________________________________
+PID: 94051
+Name: proactived
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-03 16:48:26
+CPU %:  0.00
+Memory %:  0.11
+____________________________________________________________
+PID: 94062
+Name: com.apple.hiservices-xpcservice
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-03 16:48:26
+CPU %:  0.00
+Memory %:  0.03
+____________________________________________________________
+PID: 94070
+Name: ThemeWidgetControlViewService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-03 16:48:34
+CPU %:  0.00
+Memory %:  0.10
+____________________________________________________________
+PID: 94075
+Name: talagentd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-03 16:48:47
+CPU %:  0.00
+Memory %:  0.10
+____________________________________________________________
+PID: 97409
+Name: audioaccessoryd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-04 22:35:30
+CPU %:  0.00
+Memory %:  0.16
+____________________________________________________________
+PID: 98018
+Name: tccd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-04 23:05:33
+CPU %:  0.00
+Memory %:  0.10
+____________________________________________________________
+PID: 98040
+Name: neagent
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-04 23:05:44
+CPU %:  0.00
+Memory %:  0.08
+____________________________________________________________
+PID: 98070
+Name: calaccessd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-04 23:07:07
+CPU %:  0.00
+Memory %:  0.15
+____________________________________________________________
+PID: 98088
+Name: syncdefaultsd
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-04 23:07:07
+CPU %:  0.00
+Memory %:  0.10
+____________________________________________________________
+PID: 98595
+Name: com.apple.AuthenticationServices.Helper
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-05 20:34:02
+CPU %:  0.00
+Memory %:  0.40
+____________________________________________________________
+PID: 99073
+Name: Preview
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 09:30:16
+CPU %:  0.00
+Memory %:  0.41
+____________________________________________________________
+PID: 99082
+Name: com.apple.appkit.xpc.openAndSavePanelService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 09:30:18
+CPU %:  0.00
+Memory %:  0.28
+____________________________________________________________
+PID: 99084
+Name: QuickLookUIService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 09:30:19
+CPU %:  0.00
+Memory %:  0.09
+____________________________________________________________
+PID: 99086
+Name: mscamerad-xpc
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 09:30:19
+CPU %:  0.00
+Memory %:  0.02
+____________________________________________________________
+PID: 99087
+Name: ptpcamerad
+UserName: govindrudrawar
+Status: running
+Start Time: 2026-02-06 09:30:19
+CPU %:  0.00
+Memory %:  0.02
+____________________________________________________________
+PID: 99094
+Name: com.apple.appkit.xpc.openAndSavePanelService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 09:30:30
+CPU %:  0.00
+Memory %:  0.39
+____________________________________________________________
+PID: 99095
+Name: QuickLookUIService
+UserName: govindrudrawar
+Status: sleeping
+Start Time: 2026-02-06 09:30:30
+CPU %:  0.00
+Memory %:  0.15
+____________________________________________________________
+____________________________________________________________
+--------------------------End of Log File-------------------------
+____________________________________________________________
