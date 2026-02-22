@@ -30,7 +30,6 @@ def DirectoryScanner(DirName="Marvellous"):
     EmptyFileCount = 0
 
     for FolderName, SubFolderName,FileName in os.walk(DirName):
-
         for Fname in FileName:
             FileCount =FileCount + 1
 
@@ -45,7 +44,6 @@ def DirectoryScanner(DirName="Marvellous"):
     fobj.write("This log file created at :"+timestamp+"\n")
     fobj.write(Border+"\n")
     fobj.close()
-
 
 
 def main():
@@ -65,11 +63,6 @@ def main():
         schedule.run_pending()
         time.sleep(1)
 
-    print(Border)
-    print("-------------Marvellous Directory sysyem----------")
-    print(Border)
     
-
-
 if __name__ == "__main__" :
     main()   

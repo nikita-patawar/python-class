@@ -31,10 +31,8 @@ def main():
     if(len(sys.argv )!=2):
         print("Invalid no of argument")
         print("Please specify the name of directory")
-        return
-    
+        return    
     DirectoryScanner(sys.argv[1])
-    
 
 
 if __name__ == "__main__" :
