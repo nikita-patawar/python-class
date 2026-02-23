@@ -29,12 +29,10 @@ print("Initial entries from dataset :")
 print(df.head())
 
 ####################################################################
-
 # Step 2: Data Analysis
-
 ####################################################################
 print(Border)
-print("tep 2: Data Analysis")
+print("Step 2: Data Analysis")
 print(Border)
 
 print("shape of dataset :",df.shape)
@@ -44,10 +42,30 @@ print("missing values per column")
 print(df.isnull().sum())
 
 print("class distribution  species count")
-print(df["variety"].value_counts())
+print(df["species"].value_counts())
 
 print("statiscticsl summery of report")
 print(df.describe())
 
+####################################################################
+# Step 3: Decide Independent and Dependent variables
+####################################################################
+print(Border)
+print("Step 3: Decide Independent and Dependent variables")
+print(Border)
+
+# X: Independent variables / Features
+# Y: Dependent variables / Labels
+Feature_cols = [
+    "sepal length (cm)",
+    "sepal width (cm)",
+    "petal length (cm)",
+    "petal width (cm)",
+]
+X = df[Feature_cols]
+Y = df["species"]
+
+print("X shape",X.shape)
+print("Y shape",Y.shape)
 
 
