@@ -6,6 +6,32 @@ import os
 import time
 import schedule
 
+def get_top_memory_processes(n=10):
+    processes = []
+    for proc in psutil.process_iter(['pid', 'name', 'memory_info', 'memory_percent']):
+        try:
+            # Get memory info as a named tuple
+            mem_info = proc.memory_info()
+            # Append process details to the list
+            processes.append({
+                'pid': proc.pid,
+                'name': proc.info['name'],
+                'rss': mem_info.rss,  # Real memory (Resident Set Size)
+                'vms': mem_info.vms,  # Virtual memory (Virtual Memory Size)
+                'mem_percent': proc.info['memory_percent']
+            })
+        except (psutil.NoSuchProcess, psutil.AccessDenied, psutil.ZombieProcess):
+            pass
+
+    # Sort processes by RSS memory in descending order
+    processes.sort(key=operator.itemgetter('rss'), reverse=True)
+    return processes[:n]
+
+def format_bytes(bytes_val):
+    """
+    Helper function to convert bytes to a human-readable format (MB).
+    """
+    return f"{bytes_val / (1024 * 1024):.2f} MB"
 def Createlog(FolderName):
     Border = "_"*60
     Ret = False
@@ -63,6 +89,23 @@ def Createlog(FolderName):
 
     #Process Log
 
+    Data = ProcessScan()
+    
+    
+    for info in Data:
+        fobj.write("PID: %s\n" %info.get("pid"))
+        fobj.write("Name: %s\n" %info.get("name"))
+        fobj.write("UserName: %s\n" %info.get("username"))
+        fobj.write("Status: %s\n" %info.get("status"))
+        fobj.write("Start Time: %s\n" %info.get("create_time"))
+        fobj.write("CPU %%:  %0.2f\n" %info.get("cpu_percent"))
+        fobj.write("Memory %%:  %0.2f\n" %info.get("memory_percent"))
+        fobj.write("No of threads : %s\n" %info.get("num_threads"))
+        process  = psutil.Process(info["pid"])
+        openFiles = process.open_files()
+        fileCount = len(openFiles)
+        fobj.write(Border+"\n")
+
 
     fobj.write(Border+"\n")
     fobj.write("--------------------------End of Log File-------------------------"+"\n")
@@ -71,16 +114,40 @@ def Createlog(FolderName):
 
 
 def ProcessScan():
-    print("Process Scan report")
-    for proc in psutil.process_iter(attrs=["pid","name","status"]):
-        info = proc.info
-        print(info["pid"],info["name"],info["status"])
+    listProcess = []
+
+    # Warm Up For CPU percent
+    for p in psutil.process_iter():
+        try:
+            p.cpu_percent()
+        except:
+            pass
+
+    time.sleep(0.2)    
+    
+    for proc in psutil.process_iter(attrs=["pid","name","username","status","create_time","num_threads",'memory_info','memory_percent']):
+        try:
+
+            info = proc.as_dict(attrs=["pid","name","username","status","create_time"])
+            # Convert Crteate time
+            try:
+                info["create_time"] = time.strftime("%Y-%m-%d %H:%M:%S",time.localtime(info["create_time"]))
+            except:
+                info["create_time"] = "NA"  
+
+            info["cpu_percent"] = proc.cpu_percent(None)
+            info["memory_percent"] = proc.memory_percent() 
+
+            listProcess.append(info)
+        except(psutil.NoSuchProcess,psutil.AccessDenied,psutil.ZombieProcess):
+            pass
+
+    return listProcess
+
         
 
 
 def main():
-    ProcessScan()
-    
     Border = "_"*60
     print(Border)
     print("------------Marvellous Platform Surveillance system---------")

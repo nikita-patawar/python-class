@@ -1,0 +1,30 @@
+____________________________________________________________
+----------------Marvellous Platform Surveillance system-----------
+Log Created at Wed Feb 25 22:53:04 2026
+____________________________________________________________
+
+-------------------System Report--------------------
+CPU Usage: 5.3 %
+____________________________________________________________
+Ram Usage: 63.3 %
+____________________________________________________________
+
+ Disk Usage Report 
+____________________________________________________________
+/ -> 2.5 % used
+/System/Volumes/VM -> 0.0 % used
+/System/Volumes/Preboot -> 1.7 % used
+/System/Volumes/Update -> 0.0 % used
+/System/Volumes/xarts -> 1.2 % used
+/System/Volumes/iSCPreboot -> 1.2 % used
+/System/Volumes/Hardware -> 0.3 % used
+/System/Volumes/Data -> 8.6 % used
+/private/var/folders/6p/1ptb6jzd6hz7fybw8_rzs0q40000gn/T/AppTranslocation/EE5DD189-B539-47F5-BA6A-B9695DA94743 -> 8.5 % used
+
+Network Usage Report
+sent : 29.65 MB
+Recv : 111.90 MB
+____________________________________________________________
+____________________________________________________________
+--------------------------End of Log File-------------------------
+____________________________________________________________
